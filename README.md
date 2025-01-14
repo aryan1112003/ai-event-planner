@@ -155,7 +155,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 MIT License
 
-Copyright (c) 2024 AI Event Planner
+Copyright (c) 2025 AI Event Planner
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
